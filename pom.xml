@@ -123,7 +123,7 @@ THE SOFTWARE.
         <dependency>
             <groupId>org.jenkins-ci.plugins.aws-java-sdk</groupId>
             <artifactId>aws-java-sdk-minimal</artifactId>
-            <version>1.12.529-406.vdeff15e5817d</version>
+            <version>1.12.606-418.vce5b_4cd017c6</version>
         </dependency>
         <!-- Fixes upper bound deps issue with aws sdk plugins -->
         <dependency>
